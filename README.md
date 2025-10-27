@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Madhava</h1>
-<h3 align="center">A Passionate Full stack developer from india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anumulamadhava2005&label=Profile%20views&color=0e75b6&style=flat" alt="anumulamadhava2005" /> </p>
 
