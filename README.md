@@ -3,12 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anumulamadhava2005&label=Profile%20views&color=0e75b6&style=flat" alt="anumulamadhava2005" /> </p>
 
 # 📊 GitHub Stats:
-[](https://github-readme-stats.vercel.app/api?username=anumulamadhava2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[](https://nirzak-streak-stats.vercel.app/?user=anumulamadhava2005&theme=radical&hide_border=false)<br/>
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=anumulamadhava2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>[](https://github-readme-stats.vercel.app/api?username=anumulamadhava2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<br>[](https://nirzak-streak-stats.vercel.app/?user=anumulamadhava2005&theme=radical&hide_border=false)<br/>
+<br>[](https://github-readme-stats.vercel.app/api/top-langs/?username=anumulamadhava2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[](https://github-profile-trophy.vercel.app/?username=anumulamadhava2005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br>[](https://github-profile-trophy.vercel.app/?username=anumulamadhava2005&theme=radical&no-frame=false&no-bg=false&margin-w=4)</br>
 - 🔭 I’m currently working on **MINT**
 
 - 🌱 I’m currently learning **EXPO, React-native, react, backend, linux**
